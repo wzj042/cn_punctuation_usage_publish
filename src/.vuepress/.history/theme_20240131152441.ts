@@ -15,7 +15,7 @@ export default hopeTheme({
 
   repo: "wzj042/cn-punctuation-usage",
 
-  docsDir: "/",
+  docsDir: "src",
 
   // navbar
   navbar,
@@ -23,12 +23,18 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "总得有个尽头吧。",
+  footer: "Default footer",
 
   displayFooter: true,
 
+  encrypt: {
+    config: {
+      "/demo/encrypt.html": ["1234"],
+    },
+  },
+
   metaLocales: {
-    editLink: "在 GitHub 上编辑该页面",
+    editLink: "Edit this page on GitHub",
   },
 
   plugins: {
