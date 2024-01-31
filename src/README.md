@@ -43,3 +43,13 @@ footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePr
 
 读者若在阅读文档中遇到的困难、疑惑，可以选择参考[常见问题](./docs/faq.md)、[术语和定义](./docs/Appendix/glossary.md)、[使用示例](./docs/Appendix/recipes.md)、[向作者反馈](Appendix/feedback.md)或自行在网络中搜索的方式尝试解决。
 
+
+
+当前文档的在线网页如下：
+
+[中文标点符号用法 ](https://cn-punctuation-usage.netlify.app/)
+
+原始markdown文件仓库如下：
+
+- [wzj042/cn-punctuation-usage: 基于《GB/T 15834-2011标点符号用法》内容转述整理的，汉语标点符号用法文档 (github.com)](https://github.com/wzj042/cn-punctuation-usage)
+- [cn-punctuation-usage: 基于《GB/T 15834-2011标点符号用法》内容转述整理的，汉语标点符号用法文档 (gitee.com)](https://gitee.com/xqher/cn-punctuation-usage)

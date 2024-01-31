@@ -1,4 +1,4 @@
-
+deploy_doc.bat
 node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
